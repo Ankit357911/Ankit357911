@@ -23,9 +23,9 @@ Tech Stack :
   Other Interests:
     AI/ML • REST APIs • Embedded Systems • IoT (ESP32)
 
-Highlight Project
-  MiQ – Machine Instruction Query :
-    A desktop AI assistant with:
+Highlight Project:
+  MiQ – Machine Instruction Query : 
+    A desktop AI assistant with :
       -Java Swing frontend
       -FastAPI backend
       -Voice-triggered commands
@@ -34,7 +34,7 @@ Highlight Project
       -Conversation history management
       -REST API communication
 
-Connect With Me
+Connect With Me:
   Email: ankitkarn357@gmail.com
 
 Goal

@@ -35,7 +35,7 @@ Highlight Project
       -REST API communication
 
 Connect With Me
-  Email: ankit.karn@example.com
+  Email: ankitkarn357@gmail.com
 
 Goal
   To gain real-world experience through internships and continuously grow as a software developer.
